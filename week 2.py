@@ -1,7 +1,0 @@
-LISTS
-
-IMAGES
-
-TABLES
-
-FORMS
